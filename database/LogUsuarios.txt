@@ -1,0 +1,64 @@
+entrada no sistema:
+  -id: abcd-efgh-1234
+  -horário: 10/09/2022 21:42:55
+  -nome: Henrique Eduardo
+  -email:henrique_eduardo_souza@email.com
+  -curso: Engenharia de Computação
+  -ocupação: Estudante
+
+checkout do sistema:
+  -id: abcd-efgh-1234
+  -horário: 10/09/2022 21:43:02
+  -nome: Henrique Eduardo
+  -email:henrique_eduardo_souza@email.com
+  -curso: Engenharia de Computação
+  -ocupação: Estudante
+
+entrada no sistema:
+  -id: olju-mgkh-5839
+  -horário: 10/09/2022 21:43:17
+  -nome: Marcelo
+  -email:marcelo@usp.br
+  -curso: Sistemas de Informação
+  -ocupação: Estudante
+
+saída do sistema:
+  -id: olju-mgkh-5839
+  -horário: 10/09/2022 21:43:24
+  -nome: Marcelo
+  -email:marcelo@usp.br
+  -curso: Sistemas de Informação
+  -ocupação: Estudante
+
+entrada no sistema:
+  -id: frgt-hhjj-4534
+  -horário: 10/09/2022 21:43:40
+  -nome: Admin
+  -email:admin@email.com
+  -curso: Ciência da Computação
+  -ocupação: Professor
+
+checkout do sistema:
+  -id: frgt-hhjj-4534
+  -horário: 10/09/2022 21:43:42
+  -nome: Admin
+  -email:admin@email.com
+  -curso: Ciência da Computação
+  -ocupação: Professor
+
+entrada no sistema:
+  -id: abcd-efgh-1234
+  -horário: 10/09/2022 22:02:31
+  -nome: Henrique Eduardo
+  -email:henrique_eduardo_souza@email.com
+  -curso: Engenharia de Computação
+  -ocupação: Estudante
+
+checkout do sistema:
+  -id: abcd-efgh-1234
+  -horário: 10/09/2022 22:02:33
+  -nome: Henrique Eduardo
+  -email:henrique_eduardo_souza@email.com
+  -curso: Engenharia de Computação
+  -ocupação: Estudante
+
